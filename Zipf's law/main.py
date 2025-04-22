@@ -1,3 +1,5 @@
+# This is a academic project
+
 import matplotlib.pyplot as plt
 
 with open('sample.txt','r') as f:
