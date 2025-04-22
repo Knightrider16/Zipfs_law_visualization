@@ -1,5 +1,4 @@
-# This is a academic project
-# Testing the file
+# This is an academic project
 
 import matplotlib.pyplot as plt
 
